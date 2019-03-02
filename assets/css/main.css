@@ -226,6 +226,7 @@
 
 	.row > * {
 		float: left;
+		
 		-moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
@@ -3132,21 +3133,21 @@
 			}
 
 		#header .logo {
-			
 			font-family: 'Pacifico', cursive;
 			display: inline-block;
 			height: inherit;
 			left: 0;
 			line-height: inherit;
+			margin: 0;
+			padding: 0;
 			position: absolute;
 			top: 0;
 			color: #e5474b;
 			font-size: 1.75em;
 			text-transform: none;
 			font-weight: normal;
-			padding: 0; 
-			height: 100px;
-			margin-bottom: 3px;
+			padding: 0;
+			height:90px;
 		}
 
 			#header .logo:hover {
@@ -3964,4 +3965,9 @@
 
 .team{
 	padding: 20px 	
+}
+.img-circle{
+	height: 20%;
+	widows: 20%;
+	border-radius: 100px;
 }
