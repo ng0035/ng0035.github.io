@@ -3138,8 +3138,6 @@
 			height: inherit;
 			left: 0;
 			line-height: inherit;
-			
-			padding: 0;
 			position: absolute;
 			top: 0;
 			color: #e5474b;
@@ -3148,6 +3146,7 @@
 			font-weight: normal;
 			padding: 0; 
 			height: 100px;
+			margin-bottom: 3px;
 		}
 
 			#header .logo:hover {
