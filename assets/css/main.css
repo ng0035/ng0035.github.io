@@ -3132,6 +3132,7 @@
 			}
 
 		#header .logo {
+			
 			font-family: 'Pacifico', cursive;
 			display: inline-block;
 			height: inherit;
@@ -3145,8 +3146,8 @@
 			font-size: 1.75em;
 			text-transform: none;
 			font-weight: normal;
-			padding: 0;
-			height:50px;
+			padding: 0; 
+			height: 100px;
 		}
 
 			#header .logo:hover {
