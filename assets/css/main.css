@@ -2574,7 +2574,6 @@
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
 		overflow-x: auto;
-		padding: 20px;
 	}
 
 	table {
@@ -3970,4 +3969,8 @@
 	height: 20%;
 	widows: 20%;
 	border-radius: 100px;
+}
+.faculty{
+	padding-left :20px;
+	padding-right: 20px;
 }
