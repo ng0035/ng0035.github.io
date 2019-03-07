@@ -2574,6 +2574,7 @@
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
 		overflow-x: auto;
+		padding: 20px;
 	}
 
 	table {
